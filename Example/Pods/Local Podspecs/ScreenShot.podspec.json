@@ -1,0 +1,22 @@
+{
+  "name": "ScreenShot",
+  "version": "0.1.0",
+  "summary": "A short description of ScreenShot.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jin Hyong Park/ScreenShot",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jin Hyong Park": "jin@propertyguru.com.sg"
+  },
+  "source": {
+    "git": "https://github.com/Jin Hyong Park/ScreenShot.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ScreenShot/Classes/**/*"
+}
